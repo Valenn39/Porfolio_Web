@@ -3,7 +3,7 @@ export const profile = {
   title: 'Programador & Desarrollador de Software',
   phone: '11 6999-2843',
   email: 'valenolas39@gmail.com',
-  github: 'https://github.com/Valenn39',
+  github: 'https://github.com/ValentinTiraboschi',
   summary:
     'Actualmente cursando una Licenciatura en Desarrollo de Software. Me destaco desarrollando la UI (User Interface) de sistemas, creando diseños atractivos e intuitivos que mejoran la experiencia del usuario. También me involucro en el desarrollo backend de los sistemas.',
 };
@@ -49,7 +49,7 @@ export const projects = [
     description:
       'Maquetado completo del diseño estético y desarrollo completo de FrontEnd y BackEnd para el sistema de examen teórico de test de conducir.',
     tags: ['FrontEnd', 'BackEnd', 'UI/UX'],
-    github: '',
+    github: 'https://github.com/ValentinTiraboschi/examen-manejo',
   },
   {
     title: 'Olimpiadas Nacionales',
@@ -57,7 +57,7 @@ export const projects = [
     description:
       'Desarrollo de Front-End y Back-End, documentación, diagramas de casos de uso y de Gantt, y modelo entidad-relación de una aplicación web responsive para celulares y tablets. Apta para roles de administrador y usuario.',
     tags: ['FrontEnd', 'BackEnd', 'Responsive', 'Documentación'],
-    github: '',
+    github: 'https://github.com/ValentinTiraboschi/olimpiadas-app',
   },
   {
     title: 'Técnica N°1 Manuel Belgrano',

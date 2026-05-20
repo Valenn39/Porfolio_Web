@@ -21,8 +21,7 @@ export default function About() {
             <p className="text-slate-600 text-base leading-relaxed">
               Mi foco principal está en crear interfaces de usuario que sean tanto funcionales como
               visualmente atractivas. Me apasiona resolver problemas reales a través del software y
-              siempre busco involucrarme en todas las capas del stack, desde el diseño hasta la base
-              de datos.
+              siempre busco involucrarme en todas las capas del stack.
             </p>
           </div>
 
