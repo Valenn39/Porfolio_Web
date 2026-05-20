@@ -21,6 +21,7 @@ export default function App() {
       <Experience />
       <Contact />
       <Footer />
+      <Analytics />
     </div>
   );
 }
