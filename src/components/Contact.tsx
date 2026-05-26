@@ -7,7 +7,7 @@ const contactItems = [
     icon: Mail,
     label: 'Correo electrónico',
     value: profile.email,
-    href: `mailto:${profile.email}`,
+    href: `mail:${profile.email}`,
   },
   {
     icon: Phone,
@@ -18,7 +18,7 @@ const contactItems = [
   {
     icon: Github,
     label: 'GitHub',
-    value: 'github.com/ValentinTiraboschi',
+    value: profile.github,
     href: profile.github,
   },
 ];
@@ -31,7 +31,7 @@ export default function Contact() {
           <span className="text-xs font-semibold uppercase tracking-widest text-sky-400 bg-sky-900/40 px-3 py-1 rounded-full">
             Contacto
           </span>
-          <h2 className="mt-3 text-3xl md:text-4xl font-bold text-white">Hablemos</h2>
+          <h2 className="mt-3 text-3xl md:text-4xl font-bold text-white">Contactame</h2>
           <div className="mt-4 w-12 h-1 bg-sky-500 rounded-full mx-auto" />
           <p className="mt-6 text-slate-400 max-w-lg mx-auto text-base">
             Estoy disponible para proyectos freelance, pasantías o posiciones de tiempo completo.

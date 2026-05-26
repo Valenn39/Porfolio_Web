@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="flex items-center justify-center gap-2 text-slate-500 text-sm">
         <Code2 size={14} className="text-sky-700" />
         <span>
-          Hecho con React &mdash; Valentin Tiraboschi &copy; {new Date().getFullYear()}
+          Hecho con React &mdash; Valentin Tiraboschi ; {new Date().getFullYear()}
         </span>
       </div>
     </footer>
