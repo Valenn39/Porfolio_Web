@@ -49,7 +49,6 @@ export const projects = [
     description:
       'Maquetado completo del diseño estético y desarrollo completo de FrontEnd y BackEnd para el sistema de examen teórico de test de conducir.',
     tags: ['FrontEnd', 'BackEnd', 'UI/UX'],
-    github: 'https://github.com/ValentinTiraboschi/examen-manejo',
   },
   {
     title: 'Olimpiadas Nacionales',
@@ -57,7 +56,7 @@ export const projects = [
     description:
       'Desarrollo de Front-End y Back-End, documentación, diagramas de casos de uso y de Gantt, y modelo entidad-relación de una aplicación web responsive para celulares y tablets. Apta para roles de administrador y usuario.',
     tags: ['FrontEnd', 'BackEnd', 'Responsive', 'Documentación'],
-    github: 'https://github.com/ValentinTiraboschi/olimpiadas-app',
+    github: 'https://github.com/Martuu-1407/AdventureViajes',
   },
   {
     title: 'Técnica N°1 Manuel Belgrano',
@@ -65,7 +64,7 @@ export const projects = [
     description:
       'Sistema de control de asistencias, notas y comunicados de cada alumno para la institución educativa.',
     tags: ['FrontEnd', 'BackEnd', 'Gestión'],
-    github: '',
+    github: 'https://github.com/TobiasB06/Proyecto_horarios',
   },
 ];
 
