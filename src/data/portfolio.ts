@@ -3,7 +3,7 @@ export const profile = {
   title: 'Programador & Desarrollador de Software',
   phone: '11 6999-2843',
   email: 'valenolas39@gmail.com',
-  github: 'https://github.com/ValentinTiraboschi',
+  github: 'https://github.com/Valenn39',
   summary:
     'Actualmente cursando una Licenciatura en Desarrollo de Software. Me destaco desarrollando la UI (User Interface) de sistemas, creando diseños atractivos e intuitivos que mejoran la experiencia del usuario. También me involucro en el desarrollo backend de los sistemas.',
 };
