@@ -20,10 +20,6 @@ export default function Hero() {
           Programador &amp; Desarrollador de Software
         </p>
 
-        <p className="text-slate-500 text-base md:text-lg max-w-xl mx-auto leading-relaxed mb-10">
-          {profile.summary}
-        </p>
-
         <div className="flex flex-wrap justify-center gap-4 mb-12">
           <a
             href={`mailto:${profile.email}`}

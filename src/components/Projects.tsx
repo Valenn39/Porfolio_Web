@@ -45,7 +45,7 @@ export default function Projects() {
                     Código
                   </a>
                   <a
-                    href={p.github}
+                    href="https://github.com/Martin140706/AdventureViajes.git"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-1.5 text-xs text-slate-500 hover:text-sky-600 transition-colors"

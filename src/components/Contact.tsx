@@ -1,5 +1,4 @@
 import { Mail, Phone, Github, Send } from 'lucide-react';
-import { SectionHeader } from './About';
 import { profile } from '../data/portfolio';
 
 const contactItems = [
